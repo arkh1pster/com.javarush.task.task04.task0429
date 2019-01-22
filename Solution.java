@@ -1,3 +1,7 @@
+/* 
+Положительное число
+*/
+
 import java.io.*;
 
 public class Solution {
@@ -34,8 +38,8 @@ public class Solution {
         }
         
         
-        System.out.println("количество отрицательных чисел: " + count_positive );
-        System.out.println("количество положительных чисел: " + count_negative);
+        System.out.println("количество отрицательных чисел: " + count_negative );
+        System.out.println("количество положительных чисел: " + count_positive);
     }
     
 }
