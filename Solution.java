@@ -38,7 +38,7 @@ public class Solution {
         }
         
         
-        System.out.println("количество отрицательных чисел: " + count_negative );
+        System.out.println("количество отрицательных чисел: " + -count_negative);
         System.out.println("количество положительных чисел: " + count_positive);
     }
     
